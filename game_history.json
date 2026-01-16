@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2026-01-14T23:57:52.1995754",
+    "winner": "Алена",
+    "players": [
+      "Галина",
+      "Алена"
+    ],
+    "winnerSpeed": 240,
+    "winnerErrors": 0
+  },
+  {
+    "date": "2026-01-16T19:14:03.1448654",
+    "winner": "игрок2",
+    "players": [
+      "Галина",
+      "игрок2"
+    ],
+    "winnerSpeed": 137,
+    "winnerErrors": 0
+  },
+  {
+    "date": "2026-01-16T19:34:41.1510136",
+    "winner": "2",
+    "players": [
+      "1",
+      "2"
+    ],
+    "winnerSpeed": 90,
+    "winnerErrors": 0
+  },
+  {
+    "date": "2026-01-16T19:42:49.6834352",
+    "winner": "ИГРОК 2",
+    "players": [
+      "ИГРОК 1",
+      "ИГРОК 2"
+    ],
+    "winnerSpeed": 0,
+    "winnerErrors": 0
+  }
+]
